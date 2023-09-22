@@ -1,0 +1,8 @@
+{
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "cmath": "cpp",
+        "limits": "cpp",
+        "*.tcc": "cpp"
+    }
+}
